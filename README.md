@@ -8,7 +8,7 @@ Welcome to the Project Management Notebook! This repository serves as a comprehe
 - Risk Management
 - Quality Management
 - Project Management Software
-- Project Management competitions and sertifications
+- Project Management Competitions and Certifications
 
 
 ### Userful Videos and Links
