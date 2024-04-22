@@ -11,9 +11,7 @@ Welcome to the Project Management Notebook! This repository serves as a comprehe
 - Project Management competitions and sertifications
 
 
-### Userful links
+### Userful Videos
 
-Agile method in 5 mins:
-- https://youtu.be/zi7uGg6FVM4?si=ELELbaT3SeWgdzra  
-How to create Gantt chart in exel: 
-- https://www.youtube.com/watch?v=zC22yPmc6Kw
+- [Agile method in 5 mins](https://youtu.be/zi7uGg6FVM4?si=ELELbaT3SeWgdzra)
+- [How to create Gantt chart in exel](https://www.youtube.com/watch?v=zC22yPmc6Kw)
